@@ -1,2 +1,1 @@
-# hello-world
-Hello-world tutorial
+Daniel Alarcao learning git hub 
